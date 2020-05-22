@@ -1,0 +1,20 @@
+jdk8 工具包
+jre8 运行环境
+eclipse-jee-oxygen-3-win32-x86_64 编译器
+编译器配置
+    1.workspace
+    2.提示：java下 assist 提示设成全字符
+    3.右上角有个能改环境的地方
+    4.包命名：com.neuq （例子）
+
+public class 强制避免类混乱 ，运行的是类不是class文件
+java ->class 用java虚拟机来识别并运行。
+
+main可以直接写出来 
+public static void main(String[] args){
+
+}
+Syso ->
+System.out.println("");
+    ln 为换行
+    

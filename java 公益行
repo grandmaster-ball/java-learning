@@ -18,3 +18,4 @@ Syso ->
 System.out.println("");
     ln 为换行
     
+布尔型 ：boolean
